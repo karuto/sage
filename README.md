@@ -1,6 +1,13 @@
-# [Sage](https://roots.io/sage/)
+# Before you proceed
+
+**Please read: this repo is diverged from the official Sage repo because I do not want to deal with the insanity of Sage 9.**
+
+This repo preserves the LAST stable, production-ready release of Sage 8, Sage version 8.5.3. This repo will not be updated and is intended as a backup.
+
+# [Sage 8.5.3](https://roots.io/sage/)
 [![Build Status](https://travis-ci.org/roots/sage.svg)](https://travis-ci.org/roots/sage)
 [![devDependency Status](https://david-dm.org/roots/sage/dev-status.svg)](https://david-dm.org/roots/sage#info=devDependencies)
+
 
 Sage is a WordPress starter theme based on HTML5 Boilerplate, gulp, Bower, and Bootstrap Sass, that will help you make better themes.
 
